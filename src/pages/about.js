@@ -1,5 +1,5 @@
 import React from "react"
-import Header from "../components/header" // highlight-line
+import Header from "./components/header" // highlight-line
 
 export default () => (
   <div style={{ color: `teal` }}>
